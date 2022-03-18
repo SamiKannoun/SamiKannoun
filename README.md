@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikannoun&label=Profile%20views&color=0e75b6&style=flat" alt="samikannoun" /> </p>
 
-- 🔭 I’m currently learning on **The Hacking Project**
+- 🔭 I’m currently learning in **The Hacking Project**
 
 - 🌱 I’m currently learning **web development**
 
