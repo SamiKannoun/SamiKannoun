@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **kannouchsami@gmx.fr**
 
-- 📄 Know about my experiences [just watch this https://www.youtube.com/watch?v=392P5A9gthw&ab_channel=Juuseiki](just watch this https://www.youtube.com/watch?v=392P5A9gthw&ab_channel=Juuseiki)
-
+- 📄 Know about my experiences  https://www.youtube.com/watch?v=392P5A9gthw&ab_channel=Juuseiki just watch this !
 - ⚡ Fun fact **i love wrestling and cars !**
 
 <h3 align="left">Connect with me:</h3>
