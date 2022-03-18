@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning in **The Hacking Project**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m learning **web development**
 
 - 📫 How to reach me **kannouchsami@gmx.fr**
 
