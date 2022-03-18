@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikannoun&label=Profile%20views&color=0e75b6&style=flat" alt="samikannoun" /> </p>
 
-- 🔭 I’m currently working on **The Hacking Project**
+- 🔭 I’m currently learning on **The Hacking Project**
 
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **kannouchsami@gmx.fr**
 
-- 📄 Know about my experiences just watch this, https://www.youtube.com/watch?v=392P5A9gthw&ab_channel=Juuseiki 
+- 📄 Know about my experiences just watch this, https://www.youtube.com/watch?v=bCR-CGOjfwQ&ab_channel=RaideArmas 
+- 
 - ⚡ Fun fact **i love wrestling and cars !**
 
 <h3 align="left">Connect with me:</h3>
