@@ -21,6 +21,8 @@
  
 - ⚡ Fun fact **I love wrestling, and Ancient Rome.**
 
+- You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sami-kannouch-528b3b22b/?trk=public_profile_browsemap&originalSubdomain=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-kannouch-528b3b22b/" height="30" width="40" /></a>
