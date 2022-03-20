@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img width="460" height="300" src="![1280px-Jean-Leon_Gerome_Pollice_Verso](https://user-images.githubusercontent.com/97545322/159184496-80655366-b813-4b1d-ae66-add7a6a9982f.jpg)
+  <img width="460" height="300" src="![1280px-Jean-Leon_Gerome_Pollice_Verso](https://user-images.githubusercontent.com/97545322/159184517-06acac65-3aa5-4c85-94f4-be3f58f9da04.jpg)
 ">
 </p>
 
