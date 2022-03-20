@@ -1,7 +1,6 @@
 
   <p align="center">
-  <img width="460" height="300" src="![1280px-Jean-Leon_Gerome_Pollice_Verso](https://user-images.githubusercontent.com/97545322/159184517-06acac65-3aa5-4c85-94f4-be3f58f9da04.jpg)
-">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jean-Leon_Gerome_Pollice_Verso_%28cropped2%29.jpg/789px-Jean-Leon_Gerome_Pollice_Verso_%28cropped2%29.jpg">
 </p>
 
 
