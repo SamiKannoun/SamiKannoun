@@ -1,4 +1,5 @@
-<img src = "https://tenor.com/view/onizuka-eikichi-onizuka-gto-pervert-pervert-face-gif-18218747">
+
+![onizuka-eikichi-onizuka](https://user-images.githubusercontent.com/97545322/159184220-44a98ff0-3ea1-41c8-a349-775a0a997219.gif)
 
 
 
