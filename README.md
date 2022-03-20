@@ -1,6 +1,7 @@
 
   <p align="center">
-  <img width="460" height="300" src="https://unhommedelettre.files.wordpress.com/2016/10/marc.jpeg?w=683&h=312&crop=1">
+  <img width="460" height="300" src="![1280px-Jean-Leon_Gerome_Pollice_Verso](https://user-images.githubusercontent.com/97545322/159184496-80655366-b813-4b1d-ae66-add7a6a9982f.jpg)
+">
 </p>
 
 
