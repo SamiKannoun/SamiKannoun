@@ -1,3 +1,8 @@
+<img src = "https://tenor.com/view/onizuka-eikichi-onizuka-gto-pervert-pervert-face-gif-18218747">
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sami Kannouch</h1>
 <h3 align="center">A passionate developer from France , Montpellier</h3>
 
