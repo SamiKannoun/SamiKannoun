@@ -1,7 +1,7 @@
 
   <p align="center">
-  
-![onizuka-eikichi-onizuka](https://user-images.githubusercontent.com/97545322/159184220-44a98ff0-3ea1-41c8-a349-775a0a997219.gif)</p>
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 
 
